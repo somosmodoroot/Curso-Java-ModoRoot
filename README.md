@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@somosmodoroot"><img src="https://img.shields.io/badge/YouTube-Modo%20Root-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"/></a>
-  <a href="https://github.com/tu-usuario/Curso-Java-ModoRoot/stargazers"><img src="https://img.shields.io/github/stars/tu-usuario/Curso-Java-ModoRoot?style=for-the-badge&color=10b981" alt="GitHub Stars"/></a>
+  <a href="[https://github.com/somosmodoroot/Curso-Java-ModoRoot/stargazers](https://github.com/somosmodoroot/Curso-Java-ModoRoot/stargazers)"><img src="https://img.shields.io/github/stars/somosmodoroot/Curso-Java-ModoRoot?style=for-the-badge&color=10b981" alt="GitHub Stars"/></a>
 </p>
 
 ---

@@ -1,7 +1,7 @@
 # 💻 Curso de Java Desde Cero — Modo Root
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/Gemini_Generated_Image_qyb4ipqyb4ipqyb4.png" alt="Modo Root Logo" width="180px" style="border-radius: 15px; border: 2px solid #10b981;"/>
+  <img src="[https://raw.githubusercontent.com/tu-usuario/tu-repo/main/Gemini_Generated_Image_qyb4ipqyb4ipqyb4.png](https://raw.githubusercontent.com/somosmodoroot/Curso-Java-ModoRoot/refs/heads/main/Logo.png)" alt="Modo Root Logo" width="180px" style="border-radius: 15px; border: 2px solid #10b981;"/>
 </p>
 
 <p align="center">
@@ -41,4 +41,4 @@ Aquí tienes el acceso directo al código y materiales de cada sesión. ¡Haz cl
 Si quieres tener todo el código en tu computadora para experimentar y hacer tus propias pruebas, abre tu terminal y ejecuta:
 
 ```bash
-git clone https://github.com/tu-usuario/Curso-Java-ModoRoot.git
+git clone https://github.com/somosmodoroot/Curso-Java-ModoRoot.git

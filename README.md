@@ -29,7 +29,7 @@ Aquí tienes el acceso directo al código y materiales de cada sesión. ¡Haz cl
 
 | Clase | Tema Principal | Código Fuente | Material de Apoyo | Clase en YouTube |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | **Introducción e Historia de Java** | *Teórico* | [Presentación PDF](./clase-01/"Introducción a Java - Modo Root .pdf") | [▶️ Ver Clase 1](https://www.youtube.com/watch?v=bhTudHRb8vA) |
+| **01** | **Introducción e Historia de Java** | *Teórico*  [Presentación PDF](clase-01/Introduccion_a_Java_-_Modo_Root.pdf) | | [▶️ Ver Clase 1](https://www.youtube.com/watch?v=bhTudHRb8vA) |
 | **02** | **Instalación de JDK y Primer Hola Mundo** | [`/clase-02`](./clase-02/) | [Guía de Variables](./clase-02/README.md) | [▶️ Ver Clase 2](https://www.youtube.com/@somosmodoroot) |
 | **03** | *Próximamente... Introducción al IDE profesional* | - | - | - |
 
